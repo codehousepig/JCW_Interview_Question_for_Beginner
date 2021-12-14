@@ -20,7 +20,7 @@
 
 ---
 # Part 1. 전산 기초
-## 💡 개발상식 [Link]()
+## 💡 개발상식 [Link](https://github.com/codehousepig/JCW_Interview_Question_for_Beginner/tree/main/cs_1-1)
 - 좋은 코드란 무엇인가?
 - 객체 지향 프로그래밍이란 무엇인가?
 - 
