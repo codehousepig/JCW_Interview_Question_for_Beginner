@@ -1,14 +1,10 @@
 # Part 1-1 Development common sense
-- [좋은 코드란 무엇인가](#좋은-코드란-무엇인가)
 - [객체 지향 프로그래밍이란 무엇인가](#object-oriented-programming)
   - 객체 지향 개발 원칙은 무엇인가?
 
-
-## 좋은 코드란 무엇인가
-
 ## Object Oriented Programming
 - 1줄: 독립적인 객체들의 집합을 통하여 전체 프로그램이 객체들의 상호작용 구조로 구현될 수 있도록 하는 것. <br>
-- 3줄: 
+- 추가설명
 
 ### 객체 지향적 설계 원칙
 1. SRP(Single Responsibility Principle) : 단일 책임 원칙 <br>
