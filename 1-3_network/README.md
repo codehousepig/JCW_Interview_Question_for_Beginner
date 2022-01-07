@@ -3,7 +3,7 @@
 - TCP 와 UDP 의 차이점
 - HTTP 와 HTTPS 의 차이점
   - HTTP 의 문제점들
-- OSI 7계층
+- OSI 7계층 
 
 ## GET, POST 방식의 차이점
 ### GET
